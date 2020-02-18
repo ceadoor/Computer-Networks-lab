@@ -68,7 +68,8 @@
        arary[1,2,4]               [2,4]
        
        </pre>
-       <hr>
+       
+   <hr>
        
 ## <img src="https://img.shields.io/badge/Experiment%20no-4-blue">[→ message using thread.c](https://github.com/najafmohammed/c-programs/blob/master/threadmsg.c)
 
