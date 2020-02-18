@@ -99,7 +99,7 @@
    
    <hr>
    
-## <img src="https://img.shields.io/badge/Experiment%20no-6-blue">[→ First Reader's Writer's Problem.c](https://github.com/najafmohammed/c-programs/blob/master/First_readers_writers.c.c)
+## <img src="https://img.shields.io/badge/Experiment%20no-6-blue">[→ First Reader's Writer's Problem.c](https://github.com/najafmohammed/c-programs/blob/master/First_readers_writers.c)
 
   <img src="https://img.shields.io/badge/aim-%3A-green"/>
   
@@ -113,7 +113,7 @@
    
    <hr>
    
-## <img src="https://img.shields.io/badge/Experiment%20no-7-blue">[→ Second Reader's Writer's Problem.c](https://github.com/najafmohammed/c-programs/blob/master/second_readers_writers.c.c)
+## <img src="https://img.shields.io/badge/Experiment%20no-7-blue">[→ Second Reader's Writer's Problem.c](https://github.com/najafmohammed/c-programs/blob/master/second_readers_writers.c)
 
   <img src="https://img.shields.io/badge/aim-%3A-green"/>
   
